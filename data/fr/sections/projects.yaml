@@ -1,0 +1,65 @@
+# section information
+section:
+  name: Projets
+  id: projects
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Hobby
+  filter: "Hobby"
+- name: Académique
+  filter: "Académique"
+- name: Jeu
+  filter: "Jeu"
+
+# your projects
+projects:
+- name: Tracer
+  logo: /images/sections/projects/tracer1.png
+  role: Chef d'équipe
+  # timeline: "March 2018 - Present"
+  # repo: https://github.com/jubertram/Tracer # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.tracerrr.xyz/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Tracer est une application web qui permet aux pratiquants de Parkour de trouver des lieux où pratiquer ce sport, avec les mouvements réalisables en fonction des lieux. C'est le projet final que j'ai réalisé à la fin de mon Bootcamp. Nous étions 4 à travailler 8 jours sur ce projet. J'étais le chef d'équipe en charge de la gestion globale du projet ainsi que de sa production sur Heroku. J'ai principalement travaillé sur le back end et sur l'intégration de mapbox.
+  tags: ["StimulusJS", "Ruby", "Ruby On Rails", "Mapbox", "Heroku", "Cloudinary", "Académique"]
+
+- name: Hotel'low
+  logo: /images/sections/projects/hotel'lo2.png
+  role: Propriétaire
+  # timeline: "Jun 2018 - Present"
+  # repo: https://github.com/tensorflow/tensorflow
+  url: "https://www.garden-manager-jber.store/"
+  summary: Projet que j'ai dû réaliser lors de mon examen pour la certification française 'Designer / Développeur d'applications web'. Le challenge était de réaliser un site internet pour louer des chambres d'hôtel pas chères. J'ai réalisé ce projet, seul, en 8 heures.
+  tags: ["Ruby", "Ruby on Rails", "PostgreSQL", "Heroku", "Hotjar", "Académique"]
+
+- name: Rentaru Furendo
+  role: Développeur
+  # timeline: "Jan 2017 - Nov 2017"
+  url: "https://rentarufurendo.herokuapp.com/"
+  summary: Projet de formation de fin de Bootcamp effectué avant le projet final. Nous étions 4 sur le projet et nous avions 8 jours pour le mener à bien. Le challenge était de créer un site de location et il fallait choisir le sujet à louer. Nous avons décidé de faire une location d'amis. J'ai personnellement travaillé sur la partie backend avec l'intégration d'une carte avec Mapbox.
+  tags: ["StimulusJs","Mapbox", "PostgreSQL", "Cloudinary", "Heroku", "Ruby", "Ruby on Rails" ,"Académique"]
+
+- name: Redux Chat
+  # logo: /images/sections/projects/no-code.png
+  role: Développeur
+  # timeline: "Oct 2019 - Dec 2019"
+  # repo: https://github.com/kelseyhightower/nocode
+  url: "https://jubertram.github.io/chat-redux/"
+  summary: Un petit projet dans lequel j'ai appris les bases de React et Redux
+  tags: ["React", "Redux", "Hobby"]
+
+- name: Snake Game
+  # logo: /images/sections/projects/toha.png
+  role: Développeur
+  # timeline: "Jun 2019 - Present"
+  # repo: https://github.com/hossainemruz/toha
+  url: 'https://jubertram.github.io/SnakeProject/'
+  summary: Une imitations du jeu 'Snake' dans lequel j'ai appris les bases de Javascript
+  tags: ["Javascript","Fun", "Hobby", "Jeu"]

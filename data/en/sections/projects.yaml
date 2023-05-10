@@ -1,0 +1,65 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Hobby
+  filter: "Hobby"
+- name: Academic
+  filter: "Academic"
+- name: Game
+  filter: "Game "
+
+# your projects
+projects:
+- name: Tracer
+  logo: /images/sections/projects/tracer1.png
+  role: Team lead
+  # timeline: "March 2018 - Present"
+  # repo: https://github.com/jubertram/Tracer # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.tracerrr.xyz/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Tracer is a web application to allow Parkour practitioners to find places where to do this sport, with the possible movements according to these places. This is the final project I did at the end of my Bootcamp. We were 4 to work 8 days on this project. I was the team leader in charge of the overall management of the project as well as its production on Heroku. I mainly worked on the back end and on the mapbox integration.
+  tags: ["StimulusJS", "Ruby", "Ruby On Rails", "Mapbox", "Heroku", "Cloudinary", "Academic"]
+
+- name: Hotel'low
+  logo: /images/sections/projects/hotel'lo2.png
+  role: Owner
+  # timeline: "Jun 2018 - Present"
+  # repo: https://github.com/tensorflow/tensorflow
+  url: "https://www.garden-manager-jber.store/"
+  summary: This is the project I had to do during my exam for the French certification 'Designer / web application Developer'. The challenge was to realize a website to rent cheap Hotel rooms. I completed this project, alone, in 8 hours.
+  tags: ["Ruby", "Ruby on Rails", "PostgreSQL", "Heroku", "Hotjar", "Academic"]
+
+- name: Rentaru Furendo
+  role: Developer
+  # timeline: "Jan 2017 - Nov 2017"
+  url: "https://rentarufurendo.herokuapp.com/"
+  summary: End of Bootcamp training project done before the final project. There were 4 of us on the project and we had 8 days to complete it.The challenge was to create a rental site and we had to choose the subject to rent. We decided to make a rental of friends.I personally worked on the backend part with the integration of a map with Mapbox.
+  tags: ["StimulusJs","Mapbox", "PostgreSQL", "Cloudinary", "Heroku", "Ruby", "Ruby on Rails" ,"Academic"]
+
+- name: Redux Chat
+  # logo: /images/sections/projects/no-code.png
+  role: Developer
+  # timeline: "Oct 2019 - Dec 2019"
+  # repo: https://github.com/kelseyhightower/nocode
+  url: "https://jubertram.github.io/chat-redux/"
+  summary: A little project where I learn the basics of React and Redux
+  tags: ["React", "Redux", "Hobby"]
+
+- name: Snake Game
+  # logo: /images/sections/projects/toha.png
+  role: Developer
+  # timeline: "Jun 2019 - Present"
+  # repo: https://github.com/hossainemruz/toha
+  url: 'https://jubertram.github.io/SnakeProject/'
+  summary: A copy of the Snake Game where I learned the basics of Javascript
+  tags: ["Javascript","Fun", "Hobby", "Game"]
