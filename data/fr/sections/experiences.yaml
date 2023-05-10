@@ -1,0 +1,43 @@
+# section information
+section:
+  name: Expériences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: Enfants du Mékong
+    url: "https://www.enfantsdumekong.com/"
+    location: Philippines
+    # company overview
+    overview: Depuis 1958, Children of the Mekong soutient les enfants d'Asie du Sud-Est
+  positions:
+  - designation: Volontaire
+    start: Septembre 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Septembre 2022
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Gestion d'un centre/foyer de 40 étudiants philippins
+    - Suivi de 350 étudiants philippins en situation précaire
+    - Organisation d'évènements comprenant des activités ludiques et instructives
+    - Contrôle de la distribution des parrainages
+
+- company:
+    name: Gendarmerie Nationale
+    url: "https://www.gendarmerie.interieur.gouv.fr/"
+    location: France
+    overview: La gendarmerie nationale est une force armée française chargée de missions de police, notamment en milieu rural et périurbain et sur les voies de communication. Elle est sous la tutelle du ministère de l'Intérieur mais est placée sous l'autorité du ministère des Armées pour l'exécution de ses missions militaires.
+  positions:
+  - designation: Sous-officier
+    start: Août 2012
+    end: Août 2020
+    responsibilities:
+    - Chef d'équipe / Répartition des tâches
+    - Gestion du personnel de l'unité & de l'organisation des missions
+    - Ponctualité & sens de l'organisation

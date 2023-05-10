@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About
+  name: À propos
   id: about
   enable: true
   weight: 1
@@ -52,7 +52,6 @@ resourceLinks:
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-
 - type: soft-skill-indicator
   name: Rigueur
   percentage: 85
@@ -72,6 +71,8 @@ badges:
   name: Apprentissage rapide
   percentage: 90
   color: green
+
+
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator

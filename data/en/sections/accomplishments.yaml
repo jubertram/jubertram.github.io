@@ -1,0 +1,20 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: false
+  weight: 8
+  showOnNavbar: false
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Web Developer Bootcamp
+  timeline: "October 2022 - December 2022"
+  organization:
+    name: Le Wagon
+    url: https://www.lewagon.com/
+  courseOverview: 9-week full-time intensive coding bootcamp learning HTML, CSS, Bootstrap,JavaScript ES6, SQL, git, GitHub, Heroku and Ruby on Rails. Designed, implemented and shipped to production a clone of AirBnB and a Rails prototype of www.tracerrr.xyz (Web-app).
+  certificateURL: "https://www.linkedin.com/in/julien-bertram/details/education/833865404/multiple-media-viewer/?profileId=ACoAADPgZ7sB7Sq1ksOkl0f9fTHx-XCHLZ6JGa8&treasuryMediaId=1635512905038"

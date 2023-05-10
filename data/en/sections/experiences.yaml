@@ -1,0 +1,43 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: Children of the Mekong
+    url: "https://www.childrenofthemekong.org/"
+    location: Philippines
+    # company overview
+    overview: Since 1958, Children of the Mekong supports children in Southeast Asia
+  positions:
+  - designation: Volunteer
+    start: September 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: September 2022
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Management of a center for 40 Filipino students
+    - Follow-up of 350 Filipino students in precarious situations
+    - Organization of events including fun and instructive activities
+    - Control of the distribution of sponsorships
+
+- company:
+    name: National Gendarmerie
+    url: "https://www.gendarmerie.interieur.gouv.fr/"
+    location: France
+    overview: The National Gendarmerie is a French armed force in charge of police missions, in particular in rural and peri-urban areas and on communication routes. It is under the supervision of the Ministry of the Interior but is placed under the authority of the Ministry of the Armed Forces for the execution of its military missions.
+  positions:
+  - designation: Non-commissioned officer
+    start: August 2012
+    end: August 2020
+    responsibilities:
+    - Team leader / Distribution of tasks
+    - Management of unit staff and mission organization
+    - Punctuality and sense of organization
