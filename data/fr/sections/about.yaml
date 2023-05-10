@@ -16,11 +16,12 @@ designation: Développeur Web Junior
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate and motivated junior developer, who recently graduated from Le Wagon intensive training. I
-gained a solid practical experience in development with Ruby on Rails.
-I am a calm, rigorous, and orderly person who has great capacities for understanding, learning, and teamwork.
-I am looking for a stimulating company that will allow me to continue learning
-and evolving in this field.'
+summary: "Je suis un développeur junior passionné et motivé, récemment diplômé de la formation intensive du Wagon. J'ai
+acquis une solide expérience pratique en développement avec Ruby on Rails.
+Je suis une personne calme, rigoureuse et ordonnée qui a de grandes capacités de compréhension,
+d'apprentissage et de travail d'équipe.
+Je suis à la recherche d'une entreprise stimulante qui me permettra de
+continuer à apprendre et à évoluer dans ce domaine."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -44,8 +45,8 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
-  url: "files/Resume Julien Bertram.pdf"
+- title: "Mon CV"
+  url: "files/CV Julien Bertram.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -53,22 +54,22 @@ resourceLinks:
 badges:
 
 - type: soft-skill-indicator
-  name: Rigour
+  name: Rigueur
   percentage: 85
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
+  name: Travail d'équipe
   percentage: 90
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
+  name: Travailleur assidu
   percentage: 85
   color: orange
 
 - type: soft-skill-indicator
-  name: Fast Learning
+  name: Apprentissage rapide
   percentage: 90
   color: green
 
