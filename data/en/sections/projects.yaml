@@ -22,7 +22,7 @@ buttons:
 # your projects
 projects:
 - name: Tracer
-  logo: /images/sections/projects/tracer1.png
+  # logo: /images/sections/projects/tracer1.png
   role: Team lead
   # timeline: "March 2018 - Present"
   # repo: https://github.com/jubertram/Tracer # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -31,7 +31,7 @@ projects:
   tags: ["StimulusJS", "Ruby", "Ruby On Rails", "Mapbox", "Heroku", "Cloudinary", "Academic"]
 
 - name: Hotel'low
-  logo: /images/sections/projects/hotel'lo2.png
+  # logo: /images/sections/projects/hotel'lo2.png
   role: Owner
   # timeline: "Jun 2018 - Present"
   # repo: https://github.com/tensorflow/tensorflow

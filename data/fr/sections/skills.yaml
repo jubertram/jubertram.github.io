@@ -1,0 +1,43 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Ruby
+  logo: /images/sections/skills/ruby.svg
+  summary: "Utilisé comme langue principale pour le développement professionnel. Capable d'écrire un programme évolutif, testable et maintenable."
+  url: "https://www.ruby-lang.org/fr/"
+
+- name: Ruby on Rails
+  logo: /images/sections/skills/rails.jpg
+  summary: "Framework utilisé principalement lors de la réalisation de site web dynamique."
+  url: "https://rubyonrails.org/"
+
+- name: Javascript ES6
+  logo: /images/sections/skills/JS.png
+  summary: "JS est un langage de programmation qui est l'une des technologies de base du World Wide Web, aux côtés de HTML et CSS."
+
+- name: PostgreSQL
+  logo: /images/sections/skills/postgreSQL.png
+  summary: "PostgreSQL est le système de base de données que j'utilise."
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Expérimenté avec le développement basé sur git, surtout avec Github."
+  url: "https://git-scm.com/"
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Utilisation comme système d'exploitation principal. Capable d'écrire des scripts bash/shell."
+
+- name: Hugo
+  logo: /images/sections/skills/hugo.png
+  summary: "Utilisation pour des sites statiques"
