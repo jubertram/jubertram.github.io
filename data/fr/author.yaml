@@ -1,0 +1,19 @@
+# some information about you
+name: "Julien Bertram"
+nickname: "Julien"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Salut, Je suis"
+image: "images/author/photo.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "bertramjulien@gmail.com"
+  phone: "438 365 3807"
+  github: johndoe
+  linkedin: johndoe
+
+# some summary about what you do
+summary:
+  - Je suis Développeur
+  - J'aime résoudre des problèmes
+  - J'aime travailler sur des projets funs
+  - J'aime apprendre de nouvelles choses
