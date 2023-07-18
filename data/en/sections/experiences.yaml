@@ -11,6 +11,21 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Iron & Earth
+    url: "https://www.ironandearth.org/"
+    location: Canada
+    # company overview
+    overview: Iron & Earth is a not-for-profit organization with roots in the fossil fuel industry. They create pathways to opportunities in the net-zero economy for fossil fuel workers, Indigenous Peoples, and their communities.
+  positions:
+  - designation: React Junior Front-end Developer
+    start: July 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end:
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Supported the front-end development of the Climate Career Portal (CCP) that allows an authenticated user (oil workers) to find jobs, projects, and training in green energy fields
+    - Integration of CCP French translation with the i18next-react tool
+- company:
     name: Children of the Mekong
     url: "https://www.childrenofthemekong.org/"
     location: Philippines

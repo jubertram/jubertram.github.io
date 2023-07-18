@@ -11,6 +11,22 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Iron & Earth
+    url: "https://www.ironandearth.org/"
+    location: Canada
+    # company overview
+    overview: Iron & Earth est une organisation à but non lucratif avec des racines dans l'industrie des combustibles fossiles. Ils créent des voies vers des opportunités dans l'économie nette zéro pour les travailleurs des combustibles fossiles, les peuples autochtones et leurs communautés.
+  positions:
+  - designation: Développeur Junior Front-end React
+    start: Juillet 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end:
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Soutien du développement front end du Portail des Carrières Climatiques (PCC) permettant à un utilisateur authentifié (travailleurs du pétrole) de trouver des emplois, des projets et des formations dans les domaines de l'énergie verte.
+    - Intégration de la traduction française du PCC avec l'outil i18next-react
+
+- company:
     name: Enfants du Mékong
     url: "https://www.enfantsdumekong.com/"
     location: Philippines

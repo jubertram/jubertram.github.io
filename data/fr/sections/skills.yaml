@@ -11,6 +11,11 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+- name: React
+  logo: /images/sections/skills/react.jpg
+  summary: "Utilisé comme langue front-end pour le développement professionnel. Capable d'intégrer des traductions avec l'outil i18n-react"
+  url: "https://react.dev/"
+
 - name: Ruby
   logo: /images/sections/skills/ruby.svg
   summary: "Utilisé comme langue principale pour le développement professionnel. Capable d'écrire un programme évolutif, testable et maintenable."
